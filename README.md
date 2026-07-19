@@ -45,3 +45,9 @@ The architecture transforms unstructured PDF text data into structured, semantic
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/divyansh26-pbox/Multi-PDF-AI-Agent-using-RAG.git](https://github.com/divyansh26-pbox/Multi-PDF-AI-Agent-using-RAG.git)
+
+### 👨‍💻 Developed By
+
+**Divyansh Mishra**  
+Associate Business Analyst @ Swiggy  
+Let's connect! [[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-mishra-87b266189/)
